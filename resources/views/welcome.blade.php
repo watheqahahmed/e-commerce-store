@@ -18,7 +18,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to Shoppatty!</h1>
+    <h1>Welcome to Shoppatty! Wathiqa</h1>
     <p>Your Laravel E-commerce Store is ready to explore.</p>
 </body>
 </html>
