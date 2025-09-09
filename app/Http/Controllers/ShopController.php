@@ -10,6 +10,6 @@ class ShopController extends Controller
     public function index()
     {
         // ترجع العرض من resources/views/shop/welcome.blade.php
-        return view('shop.welcome');
+        return view('shop.index');
     }
 }
